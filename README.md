@@ -23,3 +23,4 @@ Motor Nema23
 Linkovi dokumentacija:
 https://components101.com/motors/nema-23-stepper-motor-datasheet-specs
 https://www.mcmaster.com/products/motors/motor-frame-size~nema-23/
+![IMG_2072](https://github.com/Mihajlo-Spasic/MIPS-Domaci2/assets/103903116/a6b86c49-dd05-473d-9d63-eba7fe831c1e)
